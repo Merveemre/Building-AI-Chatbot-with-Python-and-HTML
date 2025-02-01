@@ -6,14 +6,15 @@ Features
 - Real-time AI responses powered by OpenAI's GPT-3.5
 - Built using Flask framework in Python
 - Simple and lightweight structure for easy deployment
+- Access the chatbot via http://127.0.0.1:5000/ during running the app locally.
 
 OpenAI API Key
 API, you'll need to obtain an API key. Once you have the key, it is suggested to be secured by setting it as an environment variable in your terminal. To do it;
 
-1. Obtain your OpenAI API Key from (https://platform.openai.com/).
+1. Obtain your OpenAI API Key from https://platform.openai.com/
    
 2. Set the API key in your terminal:
-   - On Windows (PowerShell):
+   On Windows (PowerShell):
      ```bash
      $env:OPENAI_API_KEY="your-openai-api-key"
   
