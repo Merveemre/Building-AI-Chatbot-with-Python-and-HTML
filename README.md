@@ -20,6 +20,6 @@ OpenAI API Key API : you'll need to obtain an API key. Once you have the key, it
 
 You can find a screenshot of the chatbot interface in the files to see how it looks when the application is working.
 
-Current Status
+Current Status : 
 This project is currently in progress. It will be fully functional and ready for public deployment soon.
 
