@@ -8,7 +8,7 @@ Features
 - Simple and lightweight structure for easy deployment
 - Access the chatbot via http://127.0.0.1:5000/ during running the app locally.
 
-OpenAI API Key API : you'll need to obtain an API key. Once you have the key, it is suggested to be secured by setting it as an environment variable in your terminal. To do it;
+OpenAI API Key : you'll need to obtain an API key. Once you have the key, it is suggested to be secured by setting it as an environment variable in your terminal. To do it;
 
 1. Obtain your OpenAI API Key from https://platform.openai.com/
    
