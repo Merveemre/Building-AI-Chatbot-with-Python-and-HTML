@@ -9,7 +9,7 @@ Features
 - Access the chatbot via http://127.0.0.1:5000/ during running the app locally.
   
 
-# Requirements
+Requirements
 - Python 3.8 or higher  
 - Flask 3.0.2 – lightweight web framework  
 - openai 1.6.0 – official OpenAI Python SDK (new 1.x syntax)  
